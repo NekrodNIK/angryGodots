@@ -21,6 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Angry Godots"
+run/main_scene="res://scenes/GameScene.tscn"
 config/icon="res://icon.png"
 
 [gdnative]
